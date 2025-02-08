@@ -1,0 +1,162 @@
+
+/* able{
+    border: 2px solid blue;
+}
+th{
+    border:2px solid green;
+}
+td{
+    border: 2px solid red;
+}
+#red-text{
+    color:red
+}
+#square-box{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-color: blue;
+}
+.red-text{
+    color: blueviolet;
+}
+*{
+    color:red;
+}
+h1{
+    color:blue;
+}
+p{
+    color:red;
+} */
+/* #dadu{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    background-color: blue;
+}
+
+#dadu #baba{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
+ #dadu #baba #subha{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+} 
+#dadu #baba #subha #future{
+    width:50px;
+    height: 50px;
+    background-color: aquamarine;
+}
+#dadu #baba #subha #future #h6{
+    color:black;
+} */
+ /* span{
+    background-color:red;
+ }
+ div> span{
+    background-color: yellow;
+ } */
+  /* #square-1{
+    height: 200px;
+    width:200px ;
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    
+
+  }
+  #square-2{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+  } */
+  /* #box{
+    width: 300px;
+    height: 300px;
+    background-color: gray;
+    border: 10px solid black;
+    padding: 10px;
+    margin: 10px;
+  }
+  #khelna-1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+  }
+  #khelna-2{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+  }
+  #box-2{
+    width: 300px;
+    height: 300px;
+    background-color: gray;
+    border: 10px solid black;
+    padding: 10px;
+    margin:10px;
+  }
+
+  #khelna-3{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+  }
+  #khelna-4{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+  }
+   */
+   /* div{
+    background-color: red;
+   }
+   span{
+    background-color: blue;
+   } */
+     #box{
+      height: 300px;
+      width: 300px;
+      background-color: gray;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #square-1{
+      height: 100px;
+      width: 100px;
+      background-color: red;
+    }
+    #square-2{
+      height: 100px;
+      width: 100px;
+      background-color:blue;
+    }
+    #baro-box{
+      height:300 ;
+      width: 300;
+      background-color: gray;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #choto-box-1{
+      height:100 ;
+      width: 100;
+      background-color:red;
+
+    }
+    #choto-box-2{
+      height:100 ;
+      width: 100;
+      background-color: blue;
+
+    }
